@@ -1,5 +1,5 @@
 - 👋 I'm Lihua @CHuaLi
-- 👀 seraching and learning...
+- 👀 Seraching and learning now...
 
 <!---
 CHuaLi/CHuaLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
